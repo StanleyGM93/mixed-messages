@@ -1,0 +1,2 @@
+# Mixed Messages
+The purpose of this project was to create a basic script using JavaScript that will print a random message based on three collections of strings. The script will print a short conversation between two people randomly each time it is run. You will need node.js to run this script. 
